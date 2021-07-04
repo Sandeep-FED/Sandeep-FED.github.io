@@ -442,10 +442,6 @@ footer .text span a:hover{
   }
 }
 @media (max-width: 1000px) {
-  .about .left img{
-    height: 500px;
-    width: 300px;
-  }
   .about .about-details{
     justify-content: center;
     flex-direction: column;
@@ -468,7 +464,6 @@ footer .text span a:hover{
   .about .left img{
     height: 400px;
     width: 350px;
-    
   }
 }
 
